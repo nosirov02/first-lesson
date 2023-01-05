@@ -1,2 +1,4 @@
 HELLO WORLD
 Salom Java
+
+Bu yengi ozgarishla
