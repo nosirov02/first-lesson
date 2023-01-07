@@ -5,3 +5,13 @@ b soniga
  funksiyasi
  bolish
  kerak
+
+ ******************
+
+ Bu yerda
+ a sonini
+ b soniga
+ ko'paytirish
+ funksiyasi
+ bolish
+ kerak
